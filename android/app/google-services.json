@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "792891672909",
+    "firebase_url": "https://firecoffe-2a418.firebaseio.com",
+    "project_id": "firecoffe-2a418",
+    "storage_bucket": "firecoffe-2a418.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792891672909:android:6e9335838ca930b957cf04",
+        "android_client_info": {
+          "package_name": "com.cq99.firecoffe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792891672909-ntjuchtjtau6hnue6bp9lhgr20utno1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvcw5Zg1X2WvqGMrXgnq6Mfo0mksYA6Ns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792891672909-ntjuchtjtau6hnue6bp9lhgr20utno1d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
